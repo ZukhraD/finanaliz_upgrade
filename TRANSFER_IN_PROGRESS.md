@@ -1,0 +1,1 @@
+Temporary marker for copying the base project from ZukhraD/finanaliz. This file will be removed in the next commit.
